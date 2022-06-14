@@ -215,11 +215,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Source Code\\Gama\\ServiceAPI\\ServiceAPI\\ServiceAPI.csproj",
+      "projectUniqueName": "E:\\Source Code\\ServiceAPI\\ServiceAPI\\ServiceAPI.csproj",
       "projectName": "ServiceAPI",
-      "projectPath": "E:\\Source Code\\Gama\\ServiceAPI\\ServiceAPI\\ServiceAPI.csproj",
+      "projectPath": "E:\\Source Code\\ServiceAPI\\ServiceAPI\\ServiceAPI.csproj",
       "packagesPath": "C:\\Users\\Ann Lee\\.nuget\\packages\\",
-      "outputPath": "E:\\Source Code\\Gama\\ServiceAPI\\ServiceAPI\\obj\\",
+      "outputPath": "E:\\Source Code\\ServiceAPI\\ServiceAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\",
